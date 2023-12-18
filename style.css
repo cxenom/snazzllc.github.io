@@ -8,7 +8,7 @@
 ,container{
   width: 100%;
   height: 100vh;
-  background-color: #00ffff;
+  background-color: #eaeaea;
   background-position: center;
   background-size: cover;
   position: relative;
@@ -21,7 +21,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, 50%);
-  background: #00ffff;
+  background: #eaeaea;
   padding: 50px 60px 70px;
   text-alighn: center;
 }
@@ -29,7 +29,7 @@
 .form-box h1{
   font-size: 30px;
   margin-bottom: 60px;
-  color: #00ffff;
+  color: #eaeaea;
   position: relative;
 }
 .form-box h1::after{
@@ -37,7 +37,7 @@
   width: 30px;
   height: 4px;
   border-radius: 3px;
-  background: #ff0000;
+  background: #eaeaea;
   position: absolute;
   bottom: -12px;
   left: 50%;
