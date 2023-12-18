@@ -60,7 +60,7 @@ input{
   padding: 18px 15px;
 }
 
-,input-field i{
+.input-field i{
   margin-left: 15px;
   color: #000000;
 }
