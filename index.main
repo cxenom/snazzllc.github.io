@@ -1,3 +1,10 @@
-<head> hi </head>
+<!DOCTYPE html>
+<html>
+<body>
 
-<p> hi2 </p>
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
