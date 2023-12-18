@@ -21,7 +21,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, 50%);
-  background: #000;
+  background: #00ffff;
   padding: 50px 60px 70px;
   text-alighn: center;
 }
@@ -29,7 +29,7 @@
 .form-box h1{
   font-size: 30px;
   margin-bottom: 60px;
-  color: #000;
+  color: #00ffff;
   position: relative;
 }
 .form-box h1::after{
